@@ -1,2 +1,0 @@
-/sdcard/AppProjects/RARBG机器人/src/com/robot/Main.java
-/sdcard/AppProjects/RARBG机器人/src/com/robot/Util.java
